@@ -1,4 +1,3 @@
-package com.example.assignment;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
